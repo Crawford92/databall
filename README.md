@@ -20,6 +20,6 @@ Later evaluation ideas:
 
 (2)	Performance vs Temperature
 
-(3)	Rushing and passing yards allowed per team per season, and analysis
+(3)	Rushing and Passing yards allowed per team per season
 
-(4)	Passer Rating by pressure status, home/away, target position
+(4)	Passer Rating by Defenders in Box/Defensive Personnel, by Home vs Away, by Position of Target
