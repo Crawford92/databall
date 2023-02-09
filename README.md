@@ -16,10 +16,10 @@ Optimize Passer Rating as applicable
 
 Later evaluation ideas:
 
-(1)	Rushing Yards and Yards after Contact in First vs Second half
+(-)	Rushing Yards and Yards after Contact in First vs Second half
 
-(2)	Performance vs Temperature
+(-)	Performance vs Temperature
 
-(3)	Rushing and Passing yards allowed per team per season
+(-)	Rushing and Passing yards allowed per team per season
 
-(4)	Passer Rating by Defenders in Box/Defensive Personnel, by Home vs Away, by Position of Target
+(-)	Passer Rating by Defenders in Box/Defensive Personnel, by Home vs Away, by Position of Target
