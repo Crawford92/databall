@@ -14,6 +14,8 @@ Finalize analysis and visualizations for Passer Rating
 
 Optimize Passer Rating as applicable
 
+Pull online data to SQL instead of CSV for more SQL practice
+
 Later evaluation ideas:
 
 (-)	First vs Second Half
