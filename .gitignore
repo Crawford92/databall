@@ -1,0 +1,38 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+nfl_env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data files (keep repo clean; commit only small curated samples if needed)
+data/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+
+# Logs / temp files
+*.log
+*.tmp
+*.swp
+
+# Project-specific
+notes.txt
